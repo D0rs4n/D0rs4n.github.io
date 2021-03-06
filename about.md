@@ -1,4 +1,6 @@
-# About
+# About me :wave:
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I'm a young developer, trying to learn about deep learning, without any deep mathematical background. :scream:
+Also, I have about 3 years of experience in Python :snake:.
+
 
